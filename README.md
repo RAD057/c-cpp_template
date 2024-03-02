@@ -1,1 +1,1 @@
-# gopro_autoconcat
+# c-cpp_template
